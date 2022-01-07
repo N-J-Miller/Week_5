@@ -1,7 +1,7 @@
 # Week_5
 
 ## What's the Weather Like?
-### This project uses data from a weather api to create Pandas dataframes and Matplotlib/Seaborn visualizations of world weather.
+### This project uses data from a weather api to create pandas dataframes and matplotlib/seaborn visualizations of world weather.
 ### Take a look at weather characteristics from cities all over the world in relation to the cities' latitude:
 ![Latitude vs. Temperature](https://github.com/Nik0deemus/Week_5/blob/04464c8cfdd7b8e279298212d87a20c03cde367f/Latitude_vs_Temperature.png)
 ![Latitude vs. Humidity](https://github.com/Nik0deemus/Week_5/blob/04464c8cfdd7b8e279298212d87a20c03cde367f/Latitude_vs_Humidity.png)
